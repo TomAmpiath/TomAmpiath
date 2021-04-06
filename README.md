@@ -11,4 +11,6 @@
 [<img alt="Tom George Ampiath | Twitter" width="48px" src="./icons/twitter.png" />](https://twitter.com/TAmpiath)
 
 ### Favourite Languages:
-<img alt="C" width="32px" src="./icons/c.png" />    <img alt="Python" width="32px" src="./icons/python.png" />    <img alt="Nim" width="38px" src="./icons/nim.png" />
+[<img align="left" alt="C" width="32px" src="./icons/c.png" />](https://en.wikipedia.org/wiki/C_(programming_language))
+[<img align="left" alt="Python" width="32px" src="./icons/python.png" />](https://www.python.org/)
+[<img align="left" alt="Nim" width="38px" src="./icons/nim.png" />](https://nim-lang.org/)
