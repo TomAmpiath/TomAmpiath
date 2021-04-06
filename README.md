@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there, I am Tom George Ampiath 👋
 
-<!--
-**TomAmpiath/TomAmpiath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Quick intro
+- 🔭 I’m currently working on [spectralUI](https://github.com/TomAmpiath/spectralUI) and [NimStudio](https://github.com/TomAmpiath/NimStudio) ✨ Yet to push to the repos 😄
+- 🌱 I’m currently learning Nim, Win32 and OpenGL
+- 👯 I’m looking to collaborate on [spectralUI Prototype](https://github.com/TomAmpiath/spectralUI_Prototype)
+- 🥅 Goals for 2021: Contribute more on Open source projects
+- ⚡ Fun fact: I love reading books and drawing
 
-Here are some ideas to get you started:
+### Connect with me:
+[<img alt="Tom George Ampiath | Twitter" width="48px" src="./icons/twitter.png" />](https://twitter.com/TAmpiath)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Favourite Languages:
+<img alt="C" width="32px" src="./icons/c.png" />    <img alt="Python" width="32px" src="./icons/python.png" />    <img alt="Nim" width="38px" src="./icons/nim.png" />
