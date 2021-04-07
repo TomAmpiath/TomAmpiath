@@ -23,4 +23,4 @@
 - *C Programming: A Modern Approach* by K. N. King
 - *Nim in Action* by Dominik Picheta
 - *Jane Eyre* by Charlotte Brontë
-- *Randamoozham* by M. T. Vasudevan
+- *Randamoozham* by M. T. Vasudevan Nair
