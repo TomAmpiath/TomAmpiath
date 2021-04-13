@@ -19,6 +19,7 @@
 
 ### Favourite Books 📚:
 - *Code: The Hidden Language of Computer Hardware and Software* by Charles Petzold
+- *The Elements of Computing Systems: Building a Modern Computer from First Principles* by Noam Nisan and Shimon Schocken
 - *The C Programming Language* by Brian Kernighan and Dennis Ritchie
 - *C Programming: A Modern Approach* by K. N. King
 - *Nim in Action* by Dominik Picheta
