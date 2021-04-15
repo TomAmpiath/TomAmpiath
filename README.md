@@ -25,3 +25,7 @@
 - *Nim in Action* by Dominik Picheta
 - *Jane Eyre* by Charlotte Brontë
 - *Randamoozham* by M. T. Vasudevan Nair
+
+### My Dotfiles 📄:
+[<img align="left" alt="bashrc" width="32px" src="./icons/bash.png" />](https://www.github.com/TomAmpiath/dotfiles/blob/master/.bashrc)
+[<img align="left" alt="neovim" width="32px" src="./icons/neovim.png" />](https://www.github.com/TomAmpiath/dotfiles/blob/master/init.vim)
