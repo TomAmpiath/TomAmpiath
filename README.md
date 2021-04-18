@@ -7,9 +7,9 @@
 - 🥅 Goals for 2021: Contribute more on Open source projects
 - ⚡ Fun fact: I love reading books and drawing
 
-[![Tom's GitHub stats](https://github-readme-stats.vercel.app/api?username=TomAmpiath&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TomAmpiath&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TomAmpiath)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TomAmpiath&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Connect with me:
 [<img alt="Tom George Ampiath | Twitter" width="32px" src="./icons/twitter_.png" />](https://twitter.com/TAmpiath)
