@@ -1,7 +1,7 @@
 ### Hi there, I am Tom George Ampiath 👋
 
 ## Quick intro
-- 🔭 I’m currently working on [spectralUI](https://github.com/TomAmpiath/spectralUI) and [NimStudio](https://github.com/TomAmpiath/NimStudio) ✨ Yet to push to the repos 😄
+- 🔭 I’m currently working on [spectralUI](https://github.com/TomAmpiath/spectralUI) ✨ Yet to push to the repo 😄
 - 🌱 I’m currently learning Nim, Win32 and OpenGL
 - 👯 I’m looking for collaborators on [spectralUI Prototype](https://github.com/TomAmpiath/spectralUI_Prototype)
 - 🥅 Goals for 2021: Contribute more on Open source projects
