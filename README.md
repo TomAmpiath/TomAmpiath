@@ -33,4 +33,4 @@
 ### My Dotfiles 📄:
 [<img align="left" alt="bashrc" width="32px" src="./icons/bash.png" />](https://www.github.com/TomAmpiath/dotfiles/blob/master/.bashrc)
 [<img align="left" alt="neovim" width="32px" src="./icons/neovim.png" />](https://www.github.com/TomAmpiath/dotfiles/blob/master/init.vim)
-[<img align="left" alt="zshrc" width="32px" src="./icons/Oh_My_Zsh_logo.png" />](https://www.github.com/TomAmpiath/dotfiles/blob/master/.zshrc.vim)
+[<img align="left" alt="zshrc" width="48px" src="./icons/Oh_My_Zsh_logo.png" />](https://www.github.com/TomAmpiath/dotfiles/blob/master/.zshrc)
