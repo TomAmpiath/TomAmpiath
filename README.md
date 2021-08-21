@@ -3,7 +3,7 @@
 ## Quick intro
 - 🔭 I’m currently working on [mkwiki](https://github.com/TomAmpiath/mkwiki) ✨
 - 🌱 I’m currently learning Nim, Win32 and OpenGL
-- 👯 I’m looking for collaborators on [spectralUI Prototype](https://github.com/TomAmpiath/spectralUI_Prototype)
+- 👯 I’m looking for collaborators on [spectralUI Prototype](https://github.com/TomAmpiath/spectralUI_Prototype) and [mkwiki](https://github.com/TomAmpiath/mkwiki)
 - 🥅 Goals for 2021: Contribute more on Open source projects
 - ⚡ Fun fact: I love reading books and drawing
 
