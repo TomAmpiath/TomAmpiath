@@ -4,8 +4,8 @@
 - 🔭 I’m currently working on [mkwiki](https://github.com/TomAmpiath/mkwiki) ✨
 - 🌱 I’m currently learning Nim, Win32 and OpenGL
 - 👯 I’m looking for collaborators on [spectralUI Prototype](https://github.com/TomAmpiath/spectralUI_Prototype) and [mkwiki](https://github.com/TomAmpiath/mkwiki)
-- 🥅 Goals for 2021: Contribute more on Open source projects
-- ⚡ Fun fact: I love reading books and drawing
+- 🥅 Goals for 2021: Contribute more to Open source projects
+- ⚡ My Hobbies: I love reading books and drawing
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TomAmpiath&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -26,10 +26,7 @@
 - *Code: The Hidden Language of Computer Hardware and Software* by Charles Petzold
 - *The Elements of Computing Systems: Building a Modern Computer from First Principles* by Noam Nisan and Shimon Schocken
 - *The C Programming Language* by Brian Kernighan and Dennis Ritchie
-- *C Programming: A Modern Approach* by K. N. King
-- *Nim in Action* by Dominik Picheta
 - *Jane Eyre* by Charlotte Brontë
-- *Randamoozham* by M. T. Vasudevan Nair
 
 ### My Dotfiles 📄:
 [<img align="left" alt="bashrc" width="32px" src="./icons/bash.png" />](https://www.github.com/TomAmpiath/dotfiles/blob/master/.bashrc)
