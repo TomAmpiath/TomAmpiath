@@ -1,7 +1,7 @@
 ### Hi there, I am Tom George Ampiath 👋
 
 ## Quick intro
-- 🔭 I’m currently working on [mkwiki](https://github.com/TomAmpiath/mkwiki) ✨
+- 🔭 I’m currently working on [spectralUI](https://github.com/TomAmpiath/spectralUI) and [mkwiki](https://github.com/TomAmpiath/mkwiki) ✨
 - 🌱 I’m currently learning Nim, Win32 and OpenGL
 - 👯 I’m looking for collaborators on [spectralUI Prototype](https://github.com/TomAmpiath/spectralUI_Prototype) and [mkwiki](https://github.com/TomAmpiath/mkwiki)
 - 🥅 Goals for 2021: Contribute more to Open source projects
