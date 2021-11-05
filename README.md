@@ -1,16 +1,5 @@
 ### Hi there, I am Tom George Ampiath 👋
 
-## Quick intro
-- 🔭 I’m currently working on [spectralUI](https://github.com/TomAmpiath/spectralUI) and [mkwiki](https://github.com/TomAmpiath/mkwiki) ✨
-- 🌱 I’m currently learning Nim, Win32 and OpenGL
-- 👯 I’m looking for collaborators on [spectralUI Prototype](https://github.com/TomAmpiath/spectralUI_Prototype) and [mkwiki](https://github.com/TomAmpiath/mkwiki)
-- 🥅 Goals for 2021: Contribute more to Open source projects
-- ⚡ My Hobbies: I love reading books and drawing
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TomAmpiath&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TomAmpiath&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Connect with me:
 [<img alt="Tom George Ampiath | Twitter" width="32px" src="./icons/twitter_.png" />](https://twitter.com/TAmpiath)
 
